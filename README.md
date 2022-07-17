@@ -15,3 +15,9 @@ OBJETIVOS DO BACK-END
 - Usar FastApi e postgresql como banco de dados
 - Integração com um front-end feito em Vue.js
 - Implementação do back-end em nuvem
+
+\*Nico falou para mudar para sistema de compra - Atualizar este arquivo para os requisitos
+
+- Implementação de sistema de compra
+- Implementação de arquitetura de arquivos
+- Fazer caso de uso e requisitos
